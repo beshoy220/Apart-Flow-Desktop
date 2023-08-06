@@ -1,16 +1,25 @@
 # apart_flow_desktop
 
-A new Flutter project.
+## File Architecture 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+├───data
+│   ├───external
+│   └───local
+│       └───providers
+├───domain
+│   ├───logic
+│   └───models
+└───presentation
+    ├───screens
+    │   ├───after.log
+    │   │   └───pages
+    │   │       ├───property_portfolio
+    │   │       │   └───property_operations
+    │   │       └───sales_team
+    │   └───before.log
+    └───widgets
+        ├───after.log
+        │   ├───calculators
+        │   └───charts
+        ├───before.log
+        └───common
