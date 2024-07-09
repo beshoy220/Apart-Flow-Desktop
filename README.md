@@ -1,5 +1,5 @@
-# apart_flow_desktop
-
+# Apart Flow desktop
+A simple inventory app for real-estate companies 
 ## File Architecture 
 
 ├───data
