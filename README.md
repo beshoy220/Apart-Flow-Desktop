@@ -1,9 +1,7 @@
 <body styly="margin: 0; padding: 0; display: flex; justify-content: space-between;">
     <h2>Apart Flow desktop</h2>
     <p>A simple inventory app for real-estate companies</p>
-    <p>
-
-├───data
+    <!--<p>├───data
 │   ├───external
 │   └───local
 │       └───providers
@@ -23,8 +21,7 @@
         │   ├───calculators
         │   └───charts
         ├───before.log
-        └───common
-</p>
+        └───common</p>-->
     <h3>Those are some screenshots</h3>
     <div style="width: 100%; display: flex; justify-content: space-between; padding: 10px; box-sizing: border-box;">
         <img src="https://github.com/user-attachments/assets/04a1a412-0ce3-498c-9c25-1bf3ccd25aac" alt="Image 1" style="width: 32%; padding: 10px; box-sizing: border-box;" >
