@@ -1,6 +1,6 @@
 <body styly="margin: 0; padding: 0; display: flex; justify-content: space-between;">
     <h2>Apart Flow desktop</h2>
-    <p>A simple inventory app for real-estate companies</p>
+    <p>A simple inventory management app for real-estate companies that is intended to be integrated into more bigger system as a CRM and internal managemnt system</p>
     <!--<p>├───data
 │   ├───external
 │   └───local
